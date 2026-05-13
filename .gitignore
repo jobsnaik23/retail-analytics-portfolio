@@ -1,0 +1,27 @@
+# Local Virtual Environment
+env/
+venv/
+ENV/
+
+# Databases and Data files
+*.db
+*.sqlite3
+data/
+*.csv
+*.xlsx
+
+# Python cache and systems
+__pycache__/
+*.pyc
+.pytest_cache/
+.DS_Store
+
+# Documentation and Notes
+*.txt
+*.doc
+*.docx
+*.pdf
+
+# Temporary office file locks
+.~lock.*
+~$*
